@@ -12,7 +12,7 @@ This website is used to showcase Perth Web Studios, explain the services offered
 
 Add your live domain here once connected:
 
-`https://yourdomainhere.com`
+`perthwebstudios.com`
 
 ## Contact
 
